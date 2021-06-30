@@ -1,2 +1,2 @@
 # JetpackComposeSample
-- https://dnight.tistory.com/entry/Jetpack-Compose
+- https://dnight.tistory.com/entry/Jetpack-Compose-Setting
